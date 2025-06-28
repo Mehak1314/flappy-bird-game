@@ -3,6 +3,11 @@
 A fun, browser-based clone of the classic Flappy Bird game, built using HTML5 <Canvas> ,CSS3 and **Vanilla JavaScript**.
 
 ---
+## 🚀 Live Website
+
+[Click here to play the game](https://mehak1314.github.io/flappy-bird-game/)
+
+---
 
 ## 🎮 How to Play
 
